@@ -57,3 +57,6 @@ This is a personal portfolio project created to demonstrate Python programming a
 ## 👨‍💻 Developer
 
 GitHub: CodeCraftStudio26
+## 📸 Screenshot
+
+![File Organizer PRO](screenshot.png)
